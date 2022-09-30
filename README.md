@@ -1,6 +1,4 @@
-# Tic-Tac-Toe
-
-Giải thích cách tạo ra file TheCo.txt
+# Giải thích cách tạo ra file TheCo.txt
 
 Nhóm thế cờ thứ nhất: Đi từ nước 4 lên nước 5
 
@@ -12,19 +10,20 @@ Trong thế cờ này, 1 đường thẳng (có thể là 1 cột hoặc 1 hàng
 
 Với mỗi một đường thẳng (có 4 quân  đang là quân của máy ) sẽ có 5 thế cờ được tạo ra. 
 Trong ma trận 5x5, sẽ có 5 cột, 5 hàng, 1 đường chéo chinh và 1 đường chéo phụ. Tổng cộng có 12 đường thẳng. 
+
 Vậy tổng số thế cờ được tạo ra sẽ là: 5 x 12 = 60 thế cờ.
 
 -	Ví dụ: 
 
-X	X	X	X	D
+X  X 	 X 	 X 	 D
 
-G	G	G	G	G
+G	 G	 G	 G 	 G
 
-G	G	G	G	G
+G	 G	 G	 G 	 G
 
-G	G	G	G	G
+G	 G	 G	 G	 G
 
-G	G	G	G	G
+G	 G	 G	 G	 G
 
 2.	Nhóm thế cờ thứ hai: chặn 4 quân cờ của người chơi.
 
