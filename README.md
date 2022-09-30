@@ -1,6 +1,6 @@
 # Giải thích cách tạo ra file TheCo.txt
 
-Nhóm thế cờ thứ nhất: Đi từ nước 4 lên nước 5
+1. Nhóm thế cờ thứ nhất: Đi từ nước 4 lên nước 5
 
 -	Mô tả: 
 
